@@ -5,8 +5,8 @@ def main():
 
     # Define your links, icons, and descriptions
     links_info = [
-        {"name": "Google", "url": "https://www.google.com", "icon": "🌐", "desc": "Search the web"},
-        {"name": "Wikipedia", "url": "https://www.wikipedia.org", "icon": "📚", "desc": "Free encyclopedia"},
+        {"name": "Cornea Donor Information Scraper", "url": "https://corneainfo.streamlit.app/", "icon": "🌐", "desc": "For Saving Sight and "},
+        {"name": "Heatmap Bar Chart", "url": "https://xyanalysis.streamlit.app/", "icon": "📚", "desc": "Demo Tool"},
         # Add more links as needed
     ]
 
