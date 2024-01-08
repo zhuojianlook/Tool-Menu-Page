@@ -5,8 +5,10 @@ def main():
 
     # Define your links, icons, and descriptions
     links_info = [
-        {"name": "Cornea Donor Information Scraper", "url": "https://corneainfo.streamlit.app/", "icon": "🌐", "desc": "For Saving Sight and "},
+        {"name": "Cornea Donor Information Scraper", "url": "https://corneainfo.streamlit.app/", "icon": "🌐", "desc": "For Saving Sight Corneas"},
         {"name": "Heatmap Bar Chart", "url": "https://xyanalysis.streamlit.app/", "icon": "📚", "desc": "Demo Tool"},
+        {"name": "Heatmap Bar Chart", "url": "https://zhuojianlook-multipanelfigure-multipanelfigure-no8tmp.streamlit.app/", "icon": "📚", "desc": "Multi-Panel Figure Generator"},
+
         # Add more links as needed
     ]
 
