@@ -8,6 +8,7 @@ def main():
         {"name": "Cornea Donor Information Scraper", "url": "https://corneainfo.streamlit.app/", "icon": "🌐", "desc": "For Saving Sight Corneas"},
         {"name": "Heatmap Bar Chart", "url": "https://xyanalysis.streamlit.app/", "icon": "📚", "desc": "Demo Tool"},
         {"name": "Multi-Panel Figure Builder", "url": "https://zhuojianlook-multipanelfigure-multipanelfigure-no8tmp.streamlit.app/", "icon": "📚", "desc": "Multi-Panel Figure Generator"},
+        {"name": "Platemapper", "url": "https://zjplatemapper.streamlit.app/", "icon": "📚", "desc": "384 and 96 well plates"},
 
         # Add more links as needed
     ]
